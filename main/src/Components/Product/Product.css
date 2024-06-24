@@ -1,0 +1,22 @@
+.section-design{
+    display: flex;
+    justify-content: start;
+    margin:1.5% 5% 5% 5%;
+    padding: 50px;
+    flex-wrap: wrap;
+    background-color: silver;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
+.img-design{
+    width:"200px";
+    height:"200px";
+    
+}
+
+h1{
+    font-size: 1.5em;
+    margin: 10px;
+    color: white;
+}

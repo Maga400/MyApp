@@ -1,0 +1,74 @@
+export const products = [
+    {
+        id:1,
+        name:"Cheese",
+        price:20,
+        discount:5,
+        description:"Very jummy.",
+        expireDate:"2028-01-03"
+    },
+    {
+        id:2,
+        name:"Potato",
+        price:3,
+        discount:0,
+        description:"Normal",
+        expireDate:"2018-11-12"
+    },
+    {
+        id:3,
+        name:"Tomato",
+        price:5,
+        discount:1,
+        description:"Jummy",
+        expireDate:"2026-06-06"
+    },
+    {
+        id:4,
+        name:"Banana",
+        price:7,
+        discount:3,
+        description:"Taisty",
+        expireDate:"2023-06-06"
+    },
+    {
+        id:5,
+        name:"Apple",
+        price:20,
+        discount:2,
+        description:"Taisty",
+        expireDate:"2025-01-09"
+    },
+    {
+        id:6,
+        name:"Grape",
+        price:11,
+        discount:0,
+        description:"normal fruit",
+        expireDate:"2024-02-05"
+    },
+    {
+        id:7,
+        name:"Watermelon",
+        price:7,
+        discount:1,
+        description:"nice fruit",
+        expireDate:"2027-02-05"
+    },
+    {
+        id:8,
+        name:"Melon",
+        price:6,
+        discount:0,
+        description:"Taisty",
+        expireDate:"2021-09-07"
+    },
+    {
+        id:9,
+        name:"Corn",
+        price:30,
+        discount:3,
+        description:"Very yellow",
+        expireDate:"2024-06-15"
+    }
+];
