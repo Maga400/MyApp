@@ -11,6 +11,7 @@ function App() {
       </section>
       <Product></Product>
       <h1>HEHEHE</h1>
+      <h2>SEESESEE</h2>
     </section>
   );
 }
